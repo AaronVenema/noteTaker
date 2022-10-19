@@ -1,5 +1,6 @@
 # Note Taker
-
+Repository:https://github.com/AaronVenema/noteTaker
+Deployed:https://abashed-pizzas-production.up.railway.app/notes
 ## Table of Contents
 * [Screenshots](#Screenshots)
 
