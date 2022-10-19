@@ -13,14 +13,14 @@
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/34764586/196578232-f47146d2-2b05-4055-902f-d962458120c0.png)
-<br />
+<br/>
 ![image](https://user-images.githubusercontent.com/34764586/196578739-78a6826d-2440-43fe-94ef-dcf30b0e26af.png)
-<br />
+<br/>
 
 ### Demo
-<br />
+<br/>
 ![gif](https://github.com/AaronVenema/noteTaker/blob/main/demo/demoGif.gif)
-<br />
+<br/>
 ### Description
 NoteTaker is an express application that can help the user stay organized when writing notes. It features the ability to add and remove notes as needed. It is deployed via local host or accessbile through railway.app. 
 
