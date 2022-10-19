@@ -12,10 +12,10 @@
 * [Acceptance Criteria](#Acceptance-Criteria)
 
 ### Screenshots
-<br/?
+<br/>
 ![image](https://user-images.githubusercontent.com/34764586/196578232-f47146d2-2b05-4055-902f-d962458120c0.png)
 <br/>
-<br/?
+<br/>
 ![image](https://user-images.githubusercontent.com/34764586/196578739-78a6826d-2440-43fe-94ef-dcf30b0e26af.png)
 <br/>
 
